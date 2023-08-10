@@ -1,14 +1,16 @@
 <div align="center" style="text-align:center">
-  <h1>
-  <img src="https://github.com/bitspaceorg/yuvenza-workshop/assets/119417646/5ac31509-4add-4856-9c72-70dc823f854d" width="100">
-  <img src="https://github.com/bitspaceorg/yuvenza-workshop/assets/119417646/631d4726-2b89-4c79-bbbf-a5212edd8e85" width="100">
+  <div align="center
+    <img src="https://cdn.discordapp.com/attachments/1106935324556406866/1128657375260311583/logocir.png" width="100" margin="5px" />
+    <img src="https://cdn.discordapp.com/attachments/1106564942573871135/1139027207201771520/youth-01.png" width="100" margin="5px" />
+  </div>
   <br>
+  <h1>
     WORKSHOP
   </h1>
   <img src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white">
-  <img src="https://img.shields.io/badge/NeoVim-%2357A143.svg?&style=for-the-badge&logo=neovim&logoColor=white&color=black">
+  <img src="https://img.shields.io/badge/NeoVim-%2357A143.svg?&style=for-the-badge&logo=neovim&logoColor=white&color=sapgreen">
   <img src="https://img.shields.io/badge/:bitspace x yuvenza-%23121011?style=for-the-badge&logoColor=%23ffffff&color=%23000000">
-  <img src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white&color=black">
+  <img src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white&color=orange">
   <img src="https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white">
 </div>
 <br>
